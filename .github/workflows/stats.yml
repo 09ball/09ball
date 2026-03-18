@@ -1,0 +1,14 @@
+name: Update Profile Stats
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs hourly
+  push:
+    branches: [main]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: 09ball/profile-stats@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
