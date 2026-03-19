@@ -2,10 +2,10 @@
 ```text
 languages                    | stats                        | activity                    
 ---------------------------- | ---------------------------- | ----------------------------
-python     █████░░░░░  59.0% | stars                      2 | starred local-repo-scanner  
-html       ██░░░░░░░░  20.6% | issues                     0 | created branch in local-repo
-css        ██░░░░░░░░  20.4% | pull requests              0 | starred lemurs              
-                             | forks                      0 | starred xdg-ninja           
-                             | contributions              4 | starred profile-stats       
+python     █████░░░░░  59.0% | stars                      2 | pushed to profile-stats     
+html       ██░░░░░░░░  20.6% | issues                     0 | pushed to local-repo-scanner
+css        ██░░░░░░░░  20.4% | pull requests              0 | starred photogimp           
+                             | forks                      0 | starred local-repo-scanner  
+                             | contributions              4 | created branch in local-repo
 ```
 <!-- STATS_END -->
