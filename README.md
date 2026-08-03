@@ -2,9 +2,9 @@
 ```text
 languages                    | stats                        | activity                    
 ---------------------------- | ---------------------------- | ----------------------------
-python     ██████████ 100.0% | stars received             0 | starred compactgui          
-                             | issues reported            0 | starred mysigmail           
-                             | pull requests              0 |                             
+python     ██████████ 100.0% | stars received             0 | starred fancontrol.releases 
+                             | issues reported            0 | starred compactgui          
+                             | pull requests              0 | starred mysigmail           
                              | forks received             0 |                             
                              | contributions              3 |                             
 ```
