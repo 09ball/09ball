@@ -2,7 +2,7 @@
 ```text
 languages                    | stats                        | activity                    
 ---------------------------- | ---------------------------- | ----------------------------
-python     ██████████ 100.0% | stars received             0 |                             
+python     ██████████ 100.0% | stars received             0 | starred optiscaler          
                              | issues reported            0 |                             
                              | pull requests              0 |                             
                              | forks received             0 |                             
