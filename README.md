@@ -2,8 +2,8 @@
 ```text
 languages                    | stats                        | activity                    
 ---------------------------- | ---------------------------- | ----------------------------
-python     ██████████ 100.0% | stars received             0 | starred optiscaler          
-                             | issues reported            0 |                             
+python     ██████████ 100.0% | stars received             0 | starred reframework         
+                             | issues reported            0 | starred optiscaler          
                              | pull requests              0 |                             
                              | forks received             0 |                             
                              | contributions              3 |                             
