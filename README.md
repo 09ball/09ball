@@ -2,10 +2,10 @@
 ```text
 languages                    | stats                        | activity                    
 ---------------------------- | ---------------------------- | ----------------------------
-python     ██████████ 100.0% | stars received             0 | starred playnite            
-                             | issues reported            0 | starred plexo               
-                             | pull requests              0 | starred reframework         
-                             | forks received             0 | starred optiscaler          
-                             | contributions              3 |                             
+python     ██████████ 100.0% | stars received             0 | starred loaf-fm             
+                             | issues reported            0 | starred playnite            
+                             | pull requests              0 | starred plexo               
+                             | forks received             0 | starred reframework         
+                             | contributions              3 | starred optiscaler          
 ```
 <!-- STATS_END -->
