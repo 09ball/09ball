@@ -6,6 +6,6 @@ python     ██████████ 100.0% | stars received             0 
                              | issues reported            0 | starred playnite            
                              | pull requests              0 | starred plexo               
                              | forks received             0 | starred reframework         
-                             | contributions              3 | starred optiscaler          
+                             | contributions              3 |                             
 ```
 <!-- STATS_END -->
